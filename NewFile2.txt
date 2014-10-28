@@ -1,2 +1,3 @@
 NewFile3
 Branch change
+Another branch change/merge
